@@ -1,0 +1,6 @@
+{
+  "name": "Stockq3",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./Stockq3.js"
+}
